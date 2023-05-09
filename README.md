@@ -15,3 +15,15 @@ Though it is bad practice, there are no rules set up within the database and the
 The login feature is something I will be adding as soon as I can. 
 
 To build this application or view it, you can clone this repo and run npm install to get all the dependencies. After everything is installed, you can run npm start to view it in your local environment. 
+
+Dependencies include:
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "firebase": "^9.21.0",
+    "framer-motion": "^10.12.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+
