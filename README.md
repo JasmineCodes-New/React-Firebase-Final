@@ -1,5 +1,4 @@
 # React-Firebase-Final
-Instagram like clone photo gallery social media project
 
 ### 
 This is a very basic instagram like clone project that enables the user to upload pictures that are stored in firestore and displayed from the database configured for this project
@@ -14,7 +13,7 @@ Though it is bad practice, there are no rules set up within the database and the
 
 The login feature is something I will be adding as soon as I can. 
 
-To build this application or view it, you can clone this repo and run npm install to get all the dependencies. After everything is installed, you can run npm start to view it in your local environment. 
+To build this application or view it, you can clone this repo and run npm install to get all the dependencies. After everything is installed, you can run npm start to view it in your local environment. This site is not currently deployed but I am working on that. 
 
 Dependencies include:
     "@testing-library/jest-dom": "^5.16.5",
